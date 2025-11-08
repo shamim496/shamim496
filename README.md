@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shamim Hasan</h1>
 <h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shamim496&row=1&column=7&margin-w=15&margin-h=15&theme=prussian" alt="shamim496" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shamim496&rank_icon=github&theme=prussian&card_width=250" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim496&layout=compact&theme=prussian&langs_count=8&card_width=370" />
-</p>
+</p> -->
 
 ### 👨‍💻 Skills
 
