@@ -1,147 +1,81 @@
-<h1 align="center">Hi 👋, I'm Shamim Hasan</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Shamim%20Hasan&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<h3 align="center">
-  Software Engineer at <a href="https://bdthemes.com">BDTHEMES</a>
-</h3>
+  <h3>🚀 Software Engineer at <a href="https://bdthemes.com">BDTHEMES</a></h3>
 
-<p align="center">
-  <a href="https://github.com/shamim496">
-    <img src="https://komarev.com/ghpvc/?username=shamim496&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/shamim496?tab=followers">
-    <img src="https://img.shields.io/github/followers/shamim496?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Software Engineer focused on building **modern web applications, WordPress products, plugins, and developer-focused solutions**.
-
-* 💼 Software Engineer at **BDTHEMES**
-* 🧩 Experienced in **WordPress, Gutenberg, Elementor & WooCommerce**
-* ⚛️ Building modern applications with **React & Node.js**
-* 🛠️ Interested in **SaaS, APIs, scalable architecture & developer tools**
-* 🚀 Always learning, building, and improving
+  <p align="center">
+    <a href="https://github.com/shamim496">
+      <img src="https://komarev.com/ghpvc/?username=shamim496&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+    </a>
+    <a href="https://github.com/shamim496?tab=followers">
+      <img src="https://img.shields.io/github/followers/shamim496?label=Followers&style=flat-square&color=000" alt="GitHub Followers"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-### WordPress Ecosystem
+I am a results-driven **Software Engineer** specializing in high-performance web applications and WordPress ecosystem products. My expertise lies in bridging the gap between robust backend logic and seamless frontend experiences.
 
-<p align="left">
-  <a href="https://wordpress.org/">
-    <img src="https://cdn.simpleicons.org/wordpress/21759B" width="48" height="48" alt="WordPress"/>
-  </a>&nbsp;
-  <a href="https://woocommerce.com/">
-    <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="48" height="48" alt="WooCommerce"/>
-  </a>&nbsp;
-  <a href="https://elementor.com/">
-    <img src="https://cdn.simpleicons.org/elementor/92003B" width="48" height="48" alt="Elementor"/>
-  </a>&nbsp;
-  <a href="https://developer.wordpress.org/block-editor/">
-    <img src="https://cdn.simpleicons.org/wordpress/21759B" width="48" height="48" alt="Gutenberg"/>
-  </a>
-</p>
-
-### Frontend
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.simpleicons.org/html5/E34F26" width="48" height="48" alt="HTML5"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.simpleicons.org/css/1572B6" width="48" height="48" alt="CSS3"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="48" height="48" alt="JavaScript"/>
-  </a>&nbsp;
-  <a href="https://react.dev/">
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React"/>
-  </a>&nbsp;
-  <a href="https://jquery.com/">
-    <img src="https://cdn.simpleicons.org/jquery/0769AD" width="48" height="48" alt="jQuery"/>
-  </a>&nbsp;
-  <a href="https://getbootstrap.com/">
-    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="48" height="48" alt="Bootstrap"/>
-  </a>&nbsp;
-  <a href="https://sass-lang.com/">
-    <img src="https://cdn.simpleicons.org/sass/CC6699" width="48" height="48" alt="Sass"/>
-  </a>
-</p>
-
-### Backend & Database
-
-<p align="left">
-  <a href="https://www.php.net/">
-    <img src="https://cdn.simpleicons.org/php/777BB4" width="48" height="48" alt="PHP"/>
-  </a>&nbsp;
-  <a href="https://nodejs.org/">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="Node.js"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/">
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL"/>
-  </a>
-</p>
-
-### Tools
-
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git"/>
-  </a>&nbsp;
-  <a href="https://github.com/">
-    <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub"/>
-  </a>
-</p>
+- 🔭 Currently working on **Next-gen WordPress Plugins & SaaS**
+- ⚡ Expert in **Gutenberg, React, and Scalable PHP Architectures**
+- 🎓 Constant learner, focusing on **System Design & AI Integration**
+- 💬 Ask me about **Elementor, WooCommerce, or Web Performance**
 
 ---
 
-## 🚀 What I'm Working On
+### 🛠️ Tech Stack & Expertise
 
-* 🧩 WordPress plugins & Gutenberg blocks
-* ⚛️ React-based web applications
-* 🌐 REST API & backend systems
-* 📦 SaaS products and developer tools
-* 🤖 AI-powered features for web applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shamim496&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Shamim Hasan's GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim496&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamim496&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-</p>
+| **Category** | **Tech & Tools** |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **WordPress** | ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) ![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) |
 
 ---
 
-## 🌐 Connect With Me
+### 📊 GitHub Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=shamim496&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim496&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamim496&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+### 🌐 Connect & Collaborate
 
 <p align="left">
   <a href="https://github.com/shamim496">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://t.me/Shamimhasan496">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="https://bdthemes.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>“Build something useful. Keep learning. Keep improving.”</i>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
-</p>
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <br />
+  <sub>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</sub>
+</div>
