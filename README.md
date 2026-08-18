@@ -1,93 +1,55 @@
-<h1 align="center">Hi 👋, I'm Shamim Hasan</h1>
-<h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shamim496&row=1&column=7&margin-w=15&margin-h=15&theme=prussian" alt="shamim496" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shamim496&rank_icon=github&theme=prussian&card_width=250" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim496&layout=compact&theme=prussian&langs_count=8&card_width=370" />
-</p> -->
-
-### 👨‍💻 Skills
-
-<table>
-  <tbody>
-    <tr align="center">
-      <td width="14.28%">
-        <span>WordPress</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/wordpress-icon.svg" alt="WordPress">
-      </td>
-      <td width="14.28%">
-        <span>WooCommerce</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/woocommerce-icon.svg" alt="WooCommerce">
-      </td>
-      <td width="14.28%">
-        <span>Elementor</span><br><br>
-        <img height="60" src="https://elementor.com/wp-content/uploads/2022/07/Elementor-Logo-Symbol-Blue.svg" alt="Elementor">
-      </td>
-      <td width="14.28%">
-        <span>Gutenberg</span><br><br>
-        <img height="60" src="https://borlabs.io/wp-content/uploads/2019/03/blog-gutenberg-1.png">
-      </td>
-      <td width="14.28%">
-        <span>PHP</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/php.svg" alt="PHP">
-      </td>
-      <td width="14.28%">
-        <span>JavaScript</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript">
-      </td>
-    </tr>
-    <tr align="center">
-      <td width="14.28%">
-        <span>HTML</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML">
-      </td>
-      <td width="14.28%">
-        <span>CSS</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS">
-      </td>
-      <td width="14.28%">
-        <span>React</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/react.svg" alt="React">
-      </td>
-      <td width="14.28%">
-        <span>UIkit</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/uikit.svg" alt="UIkit">
-      </td>
-      <td width="14.28%">
-        <span>NodeJS</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/nodejs.svg" alt="NodeJS">
-      </td>
-      <td width="14.28%">
-        <span>MySQL</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL">
-      </td>
-    </tr>
-    <tr align="center">
-      <td width="14.28%">
-        <span>jQuery</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/jquery.svg" alt="jQuery">
-      </td>
-      <td width="14.28%">
-        <span>Bootstrap</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/bootstrap.svg" alt="Bootstrap">
-      </td>
-      <td width="14.28%">
-        <span>SASS</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/sass.svg" alt="SASS">
-      </td>
-      <td width="14.28%">
-        <span>GitHub</span><br><br>
-        <img height="60" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="GitHub">
-      </td>
-    </tr>
-  </tbody>
-</table>
+### 👨‍💻 Tech Stack
 
 <p align="center">
-  <samp>
-    <br><br>:coffee: Wanna chat? :point_right: @ me on
-    <a href="https://t.me/Shamimhasan496" target=”_blank”>
-      <img src="https://cdn.svgporn.com/logos/telegram.svg" style="padding-top:10px"  width="20px"></a>
-  </samp>
+  <a href="https://wordpress.org/">
+    <img src="https://cdn.simpleicons.org/wordpress/21759B" width="50" height="50" alt="WordPress"/>
+  </a>
+  <a href="https://woocommerce.com/">
+    <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="50" height="50" alt="WooCommerce"/>
+  </a>
+  <a href="https://elementor.com/">
+    <img src="https://cdn.simpleicons.org/elementor/92003B" width="50" height="50" alt="Elementor"/>
+  </a>
+  <a href="https://developer.wordpress.org/block-editor/">
+    <img src="https://cdn.simpleicons.org/wordpress/21759B" width="50" height="50" alt="Gutenberg"/>
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://cdn.simpleicons.org/php/777BB4" width="50" height="50" alt="PHP"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="50" height="50" alt="JavaScript"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" width="50" height="50" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn.simpleicons.org/css/1572B6" width="50" height="50" alt="CSS"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="50" height="50" alt="React"/>
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="50" height="50" alt="Node.js"/>
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.simpleicons.org/mysql/4479A1" width="50" height="50" alt="MySQL"/>
+  </a>
+  <a href="https://jquery.com/">
+    <img src="https://cdn.simpleicons.org/jquery/0769AD" width="50" height="50" alt="jQuery"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="50" height="50" alt="Bootstrap"/>
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://cdn.simpleicons.org/sass/CC6699" width="50" height="50" alt="Sass"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://cdn.simpleicons.org/github/181717" width="50" height="50" alt="GitHub"/>
+  </a>
 </p>
